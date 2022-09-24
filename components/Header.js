@@ -10,7 +10,7 @@ const Header = () => {
             <div className={styles.barra}>
               <div>
                 <Link href='/'>
-                  <Image width={400} height={100} src="/img/Frame .svg" alt="Imagen Logo"/>
+                  <Image width={400} height={100} src="/img/liogo2.svg" alt="Imagen Logo"/>
                 </Link>
               </div>
               <nav className={styles.navegacion}>
